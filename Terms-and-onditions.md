@@ -3,13 +3,13 @@ Terms and Conditions
 Welcome to FOMO Dev LLC. These Terms and Conditions outline the rules and regulations for using our services, applications, and website. By accessing or using our services, you agree to abide by these Terms.
 
 2. Company Information
-Company Name: FOMO Dev LLC
+    Company Name: FOMO Dev LLC
 
-Established: January 1, 2025
+    Established: January 1, 2025
 
-Incorporation State: Delaware, USA
+    Incorporation State: Delaware, USA
 
-Delaware State File Number: 10049999
+    Delaware State File Number: 10049999
 
 3. Use of Services
 FOMO Dev LLC is a software development company specializing in web and mobile applications, including custom solutions for clients and our own published products. You agree to use our services lawfully and in compliance with all applicable regulations. Unauthorized or improper use may result in restricted access or termination of services.
