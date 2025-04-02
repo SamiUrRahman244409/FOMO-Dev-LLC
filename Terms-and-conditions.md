@@ -1,4 +1,4 @@
-Terms and Conditions
+cTerms and Conditions
 1. Introduction
 Welcome to FOMO Dev LLC. These Terms and Conditions outline the rules and regulations for using our services, applications, and website. By accessing or using our services, you agree to abide by these Terms.
 
