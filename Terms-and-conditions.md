@@ -35,4 +35,4 @@ FOMO Dev LLC reserves the right to modify these Terms at any time. Continued use
 
 11. Contact Information
 For inquiries, please contact us at:
-📧 Email: fomodevllc3804@gmail.com
+📧 Email: contact@fomodevllc.online
